@@ -1,0 +1,20 @@
+.component_container {
+  height: 300px;
+  gap: 40px;
+  background-color: rgb(229, 239, 214);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.circle {
+  width: 180px;
+  font-size: 18px;
+  font-weight: 500;
+  height: 180px;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 2px solid black;
+  border-radius: 50%;
+}

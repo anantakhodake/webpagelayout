@@ -1,0 +1,49 @@
+.component3_container {
+  display: flex;
+  margin-top: 40px;
+  justify-content: center;
+  align-items: center;
+  gap: 80px;
+}
+.component3_container1 {
+  width: 500px;
+  height: 500px;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.component3_container1 .p {
+  margin-top: -10px;
+  font-size: 20px;
+}
+
+.c3_heading {
+  text-align: center;
+  background-clip: text !important;
+  -webkit-text-fill-color: transparent;
+  background: linear-gradient(90deg, #00084d 0, #1d63ed 100%);
+}
+
+.c3_button {
+  padding: 5px;
+  font-size: 20px;
+  border-radius: 4px;
+  background-color: blue;
+  color: white;
+  border: none;
+  padding: 5px;
+  width: 250px;
+}
+.c3_button:hover {
+  cursor: pointer;
+  background-color: darkblue;
+}
+.cimg_div {
+  width: 500px;
+  height: 500px;
+}
+.cimg_div img {
+  width: 500px;
+  height: 500px;
+}

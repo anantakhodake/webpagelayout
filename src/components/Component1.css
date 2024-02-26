@@ -1,0 +1,50 @@
+.main_container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.container1 {
+  margin-top: 10px;
+  width: 570px;
+  height: 570px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-image: url("../components/images/background.webp");
+}
+
+.img_div {
+  width: 300px;
+  height: 300px;
+  object-fit: cover;
+  background-image: url("../components/images/nature.jpg");
+}
+.container2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  width: 570px;
+  height: 570px;
+}
+.container2 h1 {
+  margin-top: -10px;
+  font-weight: 500;
+  font-size: 40px;
+  padding-left: 50px;
+}
+
+.container2 button {
+  padding: 5px;
+  font-size: 20px;
+  border-radius: 4px;
+  background-color: blue;
+  color: white;
+  border: none;
+  padding: 5px;
+  width: 250px;
+}
+.container2 button:hover {
+  cursor: pointer;
+  background-color: darkblue;
+}

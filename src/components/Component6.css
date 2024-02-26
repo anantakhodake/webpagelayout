@@ -1,0 +1,25 @@
+.c6cards {
+  width: 250px;
+  margin-top: 30px;
+  border: 2px solid black;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: auto;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.c6_containermain {
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.component6_container {
+  width: 200px;
+  margin-top: 20px;
+}
+.C6card img {
+  height: 300px;
+  width: 200px;
+}
