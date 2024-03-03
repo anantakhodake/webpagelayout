@@ -8,7 +8,7 @@ function Component4() {
         <div className="icon">+</div>
         <div className="component4_container">
           <h1 style={{ fontSize: "40px" }}>Love From Clients</h1>
-          <p style={{ marginTop: "-10px", fontSize:"20px" }}>
+          <p style={{ marginTop: "-10px", fontSize:"21px" }}>
             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
             eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
             ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
