@@ -6,7 +6,7 @@ import coding from "./images/coding.jpg";
 function Component5() {
   return (
     <>
-      <h1 style={{ textAlign: "center", fontSize: "40px", color:"blue" }}>
+      <h1 style={{ textAlign: "center", fontSize: "41px", color:"blue" }}>
         Latest Projects{" "}
       </h1>
       <div className="component5_container">
